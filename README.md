@@ -1,6 +1,6 @@
 # X-man
 
-### Roteiro Resumido para Explicação do Projeto Interativo dos X-Men
+### Roteiro Resumido da Explicação do Projeto Interativo dos X-Men
 
 ---
 
